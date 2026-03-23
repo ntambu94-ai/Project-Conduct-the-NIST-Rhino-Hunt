@@ -1,2 +1,2 @@
-# Project-Conduct-the-NIST-Rhino-Hunt
+# NIST-Threat-Hunt
 Project: Conduct the NIST Rhino Hunt
